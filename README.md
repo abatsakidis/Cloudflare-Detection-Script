@@ -62,5 +62,4 @@ If you cannot use `pip install`, you might need to install dependencies manually
 
 ---
 
-**Author:** Your Name  
 **License:** MIT  
