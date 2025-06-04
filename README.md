@@ -43,7 +43,7 @@ If you cannot use `pip install`, you might need to install dependencies manually
 
 3. Run the script:
    ```
-   python3 cloudflare.py
+   python3 cloudflare_checker.py
    ```
 
 4. Enter a URL or domain when prompted (e.g., `https://example.com` or `example.com`).
