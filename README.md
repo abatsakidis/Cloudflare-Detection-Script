@@ -34,7 +34,7 @@ If you cannot use `pip install`, you might need to install dependencies manually
 
 ## How to use
 
-1. Clone or download the script file `cloudflare.py`.
+1. Clone or download the script file `cloudflare_checker.py`.
 
 2. Install required packages:
    ```
